@@ -1,5 +1,8 @@
 # Data Science Portfolio
 
+<a href="https://www.linkedin.com/in/lloyd-d-souza-69a668154">LinkedIn</a> |
+<a href="https://github.com/Lloyd-Dsouza">GitHub</a>
+
 ---
 
 ## Machine learning
