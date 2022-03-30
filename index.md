@@ -1,5 +1,12 @@
 # Data Science Portfolio
 
+<br>
+  I'm working on Web application development.
+  Currently working in infosys.
+  Interested in Data Science and Machine learning.
+  Pursuing Master of Science in Machine Learning and AI.
+  <br>
+
 <a href="https://www.linkedin.com/in/lloyd-d-souza-69a668154">LinkedIn</a> |
 <a href="https://github.com/Lloyd-Dsouza">GitHub</a>
 
