@@ -1,6 +1,16 @@
-title: Minimal theme
+title: <p align="center"> Lloyd Dsouza </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description: <p align="center">
+  <a href="https://www.linkedin.com/in/lloyd-d-souza-69a668154">LinkedIn</a> |
+  <a href="https://github.com/Lloyd-Dsouza">GitHub</a>
+
+  <br>
+  I'm working on Web application development.
+  Currently working in infosys.
+  Interested in Data Science and Machine learning.
+  Pursuing Master of Science in Machine Learning and AI.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
